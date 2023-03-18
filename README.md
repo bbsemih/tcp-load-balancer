@@ -1,8 +1,7 @@
 # tcp-load-balancer
-TCP load balancer prototype written in Go
+Implementation of a TCP load balancer in Go
 
 ## What is Level 4 (TCP/IP) load balancer?
-
 
 
 * Level 4 load balancing is typically used for applications that rely on the TCP and UDP protocols, such as HTTP, SMTP, DNS, and FTP. The load balancer monitors the health and performance of the servers, and directs traffic to the most available and responsive server, which helps improve application availability, scalability, and performance.
